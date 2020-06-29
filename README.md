@@ -1,7 +1,8 @@
 # The Search For The Next macOS Name
 My winning WWDC18 scholarship submission! I'm very excited about this. There is one bug that randomly stops your ability to jump. In that case, just relaunch. Enjoy!
 
-## Welcome to my Playground!
+![Welcome to my Playground](SearchForMacOS.png)
+
  This playground is a game called "The Search For The Next macOS Name" and is based on the ongoing joke that every year Craig Federighi goes on a journey to find out what the next macOS will be named.
  
  This game is an endless runner that takes place in the orignial Macintosh operating system, and you can jump on various windows throughout the OS
